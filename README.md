@@ -1,7 +1,7 @@
 # Deaths from Opioid Overdoses in New Jersey From 2012 to 2015
 
 - Brianna Mateo, Michel Ruiz-Fuentes
-- SDS192 (02) Intro to Data Science
+- SDS192 (02) Introduction to Data Science
 - 23 Nov. 2021
 
 ## Introduction
