@@ -21,16 +21,18 @@ library(tmaptools)
 library(leaflet)
 library(sf)
 library(maps)
-```
 
-## Your Map
-
-```{r}
 county_ods_16<- read_csv("Data/county-ods-16.csv")
 
 AcuteCareFacilities<- read_csv("Data/Acute-Care_Facilities.csv")
 NJ_roads<- "tl_2015_34_prisecroads" %>%
   read_sf()
+  
+```
+
+## Your Map
+
+```{r}
 
 NJ_county_orig <- 
   tidycensus::get_acs(
