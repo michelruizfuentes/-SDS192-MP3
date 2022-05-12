@@ -1,6 +1,6 @@
 # Deaths from Opioid Overdoses in New Jersey From 2012 to 2015
 
-Group Project Authors
+Mini-Project 3 Authors
 - Brianna Mateo
 - Michel Ruiz-Fuentes
 
